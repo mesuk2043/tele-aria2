@@ -1,0 +1,8 @@
+{
+  "aria2-server": "ws://192.168.1.154:6800/jsonrpc",
+  "aria2-key": "xxx",
+  "proxy": "http://127.0.0.1:7890",
+  "bot-key": "5218813347:AAGMPoMQmOMkYqbiGonqBRT8CL0z9LMRjPc",
+  "user-id": "1287276743",
+  "max-index": 10
+}
